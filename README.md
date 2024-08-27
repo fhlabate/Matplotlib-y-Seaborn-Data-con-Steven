@@ -3,6 +3,6 @@ Seguimiento de la lista de videos de Data con Steven para profundizar en las lib
 
 Buen material para adentrarse en las librerías más versátiles para gráficos en notebooks. 
 
-[Lista de reproducción](https://www.youtube.com/playlist?list=PLEiS2zOIb3riJOZzZEK_vuvO-AItS9Gy5)
+[▶️Lista de reproducción](https://www.youtube.com/playlist?list=PLEiS2zOIb3riJOZzZEK_vuvO-AItS9Gy5)
 
 Todo el notebook fue realizado con VSC.
